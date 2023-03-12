@@ -1,0 +1,11 @@
+Bienvenue dans le monde du moteur de jeux multijoueurs ! Le moteur de jeux que vous avez devant vous est un outil puissant qui vous permet de créer des mondes multijoueurs entièrement personnalisables grâce à un système de mod.
+
+Notre moteur de jeux est basé sur une architecture Entity Component System, qui vous permet de gérer facilement le monde du jeu. Il prend en charge la connexion via TCP et la synchronisation des données des entités via UDP / TCP pour garantir une expérience de jeu fluide.
+
+Le système de mod intégré est l'une des caractéristiques les plus intéressantes de notre moteur de jeux. Il vous permet de créer des mods qui peuvent être client et serveur, ou simplement client ou serveur. Chaque mod contient des fichiers systems, un fichier par system, qui sont exécutés en mode concurrent. Le mod contient également un dossier components qui définit les nouveaux composants disponibles dans la librairie. De plus, chaque mod contient une liste d'entités type.
+
+Notre moteur de jeux est conçu pour fournir aux créateurs un environnement de développement compatible multijoueur, car faire un jeu multijoueur est souvent très compliqué. Notre moteur de jeux simplifie ce processus en offrant une solution tout-en-un qui permet aux développeurs de se concentrer sur la création de jeux amusants et excitants plutôt que sur la gestion des détails techniques.
+
+Nous avons choisi d'utiliser ebitengine pour le système de rendu, ce qui nous permet de nous concentrer sur l'essentiel : la création d'un environnement multijoueur solide et facile à utiliser.
+
+En bref, notre moteur de jeux multijoueurs est une solution puissante et flexible pour la création de mondes multijoueurs. Avec notre système de mod, vous pouvez créer des jeux personnalisés et uniques qui offrent une expérience de jeu immersive pour vos joueurs. Rejoignez-nous dans le monde passionnant de la création de jeux multijoueurs !
